@@ -16,10 +16,8 @@ const char* password = "YOUR_WIFI_PASSWORD";
 
 // ---------------- ThingSpeak ----------------
 
-// Channel ID public repo me generally rakh sakte ho
-unsigned long channelID = 3485825;
+unsigned long channelID = 123....x;
 
-// Never upload your real Write API Key publicly
 const char* writeAPIKey = "YOUR_WRITE_API_KEY";
 
 WiFiClient client;
